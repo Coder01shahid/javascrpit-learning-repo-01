@@ -20,3 +20,4 @@ let islogIn = true
 
 console.log(typeof 45);
 console.log(typeof null); 
+
