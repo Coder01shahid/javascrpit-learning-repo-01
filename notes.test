@@ -1,7 +1,7 @@
                             ....variables notes....
 We always use let for giving a variable.
 Never use var in the coding beacause it make issue in block scope and function scope. 
-Never quite and variable without giving them any value.
+Never quite any variable without giving them any value.
 We just use (let and const) only.
                             ....Datatype notes.....
 "use strcit"; with this the code is treat as newer version.  
